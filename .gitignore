@@ -1,18 +1,21 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT ME</title>
+</head>
+<body>
+    <h1>ABOUT ME</h1>
+    <p>My name is Irina, and I am a proud mom!</p>
+    
+    <h2>My Son's GitHub</h2>
+    <p>You can check out my son's work on his GitHub: <a href="https://github.com/masikhacker" target="_blank">masikhacker</a></p>
 
-# Other files and folders
-.settings/
+    <h2>My Son's Sister's GitHub</h2>
+    <p>And here is my son's sister's GitHub: <a href="https://github.com/yuliaalexandr" target="_blank">yuliaalexandr</a></p>
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+    <h2>My Hobbies</h2>
+    <p>I absolutely love climbing and traveling! There's nothing like the thrill of reaching the top of a climb or exploring new places around the world.</p>
+</body>
+</html>
